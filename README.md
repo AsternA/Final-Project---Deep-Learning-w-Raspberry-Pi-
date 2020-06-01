@@ -133,7 +133,8 @@ My solution was to retrain a Tiny YOLO V3 model to my custom objects. Because th
     - On RPi in mission_import.py file, change the connect default value to YOUR RPi IP address
     - run main yolo.py file
 
-    
+Video of the Project:
+https://www.youtube.com/watch?v=LQ6SFYkovR0&t=2s
     
 
 
