@@ -73,7 +73,7 @@ ap.add_argument("-o", "--output", type=str, default="",
     help="path to (optional) output video file")
 ap.add_argument("-d", "--display", type=int, default=0,
     help="whether or not output frame should be displayed")
-ap.add_argument("-y", "--yolo", type=str, default="yolo-num-final-proj",
+ap.add_argument("-y", "--yolo", type=str, default="yolo-num-final-proj", # <---- Change PATH to your YOLO FILES: obj.names, .cfg, .weights
     help="base path to YOLO directory")
 ap.add_argument("-c", "--confidence", type=float, default=0.5,
     help="minimum probability to filter weak detections")
