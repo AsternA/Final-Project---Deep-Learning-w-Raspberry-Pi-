@@ -122,7 +122,7 @@ TOTAL_CONSEC_3 = 0
 TOTAL_CONSEC_4 = 0
 TOTAL_CONSEC_5 = 0
 TOTAL_CONSEC_6 = 0
-TOTAL_THRESH   = 20  # 20 consecutive frames at 2 FPS is 10 secs!
+TOTAL_THRESH   = 10  # 10 consecutive frames at 2 FPS is 5 secs!
 # Init arm frame counts and arm flag
 TOTAL_CONSEC_ARM = 0
 armed = False
