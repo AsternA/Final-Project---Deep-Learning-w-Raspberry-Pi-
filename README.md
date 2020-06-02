@@ -24,11 +24,11 @@ My solution was to retrain a Tiny YOLO V3 model to my custom objects. Because th
   e. image_gen.py
   Generates images from video. To create a dataset I filmed my objects from all different angles, then used this file to convert the video files into images
   
-  f. YOLO folder
+  f. data_for_running folder
   
     i.    obj.names                      - names of our objects
-    ii.   Yolov3-tiny-obj.cfg            - tiny yolo config file
-    iii.  Yolov3-tiny-obj_final.weights  - yolo weights
+    ii.   Yolov3-tiny-obj_v2.cfg         - tiny yolo config file
+    iii.  Yolov3-tiny-obj_final.weights  - yolo weights (NEED TO DOWNLOAD)
     
 2. Training
 
