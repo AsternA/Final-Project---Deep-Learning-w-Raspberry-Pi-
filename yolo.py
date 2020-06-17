@@ -2,9 +2,9 @@
 #                                               #
 # Written by: Almog Stern                       #
 # Date: 15.4.20                                 #
-# Most of the code was written by Adrian from   #
-# https://www.pyimagesearch.com, modified by    #
-# me for my project                             #
+# Credit goes to Adrian from                    #
+# https://www.pyimagesearch.com, for some code, #
+# the rest was written by me for my project     #
 #                                               #   
 #                                               #
 # Yolo Tiny v3 model was trained by Almog Stern #
